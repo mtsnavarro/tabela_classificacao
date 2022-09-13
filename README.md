@@ -1,2 +1,4 @@
-# tabela_classificacao
-Imersão Dev Alura - Tabela de Classificação
+# Tabela de classificação
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/mtsnavarro/pen/qBYadEB](https://codepen.io/mtsnavarro/pen/qBYadEB).
+
